@@ -1,0 +1,186 @@
+fieldset {
+          border-radius:2px 2px 2px 2px; 
+	  box-shadow:#702518 5px 5px 5px 5px; 
+	  background-color: #B3A984; 
+	  opacity:1;
+          width: 50%;
+          margin-left: auto;
+          margin-right: auto;
+	  }
+h1, h2, h3, h4, h5 {
+       text-align: center; 
+      text-shadow:#702518 10px 10px 30px; 
+      font-color: white;
+	  }
+         h3#info{
+              text-align: right;
+          }
+p { 
+          width:500px; 
+	  margin-left:3px; 
+	  margin-right:3px; 
+	  color:#702518; 
+	  font-weight:white;
+          
+          
+	  }
+label { 
+      text-shadow:black 3px 3px 3px; 
+	  }
+div#encabezado { 
+	  margin-left:auto; 
+	  margin-right:auto; 
+	  border-radius:5px; 
+	  box-shadow:gray 6px 6px 6px; 
+	  margin-bottom:10px; 
+	  border:outset 1px; 
+          border: 3px;
+          background:white;
+	  }
+div#body{
+              font-family: Courier New;
+              margin-left: auto;
+              margin-right: auto;
+              width: 100%;
+              color: graytext;
+              background-image: "../images/logo_telcel.png";
+              background-repeat:repeat;
+          }
+div#cuerpo { 
+          box-shadow: gray 5px 5px 5px;
+	  margin-left:auto; 
+	  margin-right:auto; 
+	  border-radius:10px; 
+	  border:outset 5px; 
+	  }
+div#opciones { 
+          margin-right: 30px;
+	  border-radius: 5px; 
+	  box-shadow:white 5px 5px 5px;
+	  }
+          hr {
+	  background-color:#702518; 
+	  }
+         div#pie{
+          width:90%; 
+          float: left;  
+          align: center;
+          }
+          div#ut{
+             float: left;    
+             width: 100%;
+             }
+          table{
+              margin-left: auto;
+              margin-right: auto;
+          }
+          div#menu{
+              width: 80%;
+              
+             margin-left:auto;
+             margin-right: auto;
+           }
+     input#form{
+              float: right;
+          }
+     img.custom-input-file:hover .archivo {
+              background-color: forestgreen;
+              color: navajowhite;
+          }
+          img.foto{
+               border: black solid; 
+               opacity: 0.85;
+          } 
+          img.foto:hover{
+              box-shadow: black solid 10px 10px 25px 5px;
+              opacity: 1;
+              height: 100px;
+              width: 100px;
+            }
+            table{
+  border: 3px solid black;
+  border-spacing: 0px;
+  background: blue;
+}
+
+
+table thead tr{
+  font-family: Arial, monospace;
+  font-size: 14px;
+}
+
+table thead tr th{
+  border-bottom: 2px solid black;
+  border-top: 1px solid black;
+  margin: 0px;
+  padding: 2px;
+  background-color: #cccccc;
+}
+
+table tr {
+  font-family: arial, monospace;
+  color: black;
+  font-size:14px;
+  background-color: white;
+}
+.enlace:link{
+    font-size: 15px;
+}
+.enlace:visited{
+    font-size: 15px;
+}
+.enlace:hover{
+      font-size: 16px;
+}
+.enlace:hover{
+    color:white; 
+    background: blue;
+}
+.form{
+     background-color:graytext; 
+      border-radius:2px 2px 2px 2px; 
+      box-shadow:#52DCA8 5px 5px 5px 5px; 
+}
+ul {
+  background: #F4F4F4;
+  border: 5px solid #7C7C7C;
+ /* list-style: none;*/
+  margin: 2px;
+  padding: 2px;
+  overflow: hidden;
+}
+ul li {
+  float: right;
+  width: 16.5%;
+  height: 6.5%;
+}
+ul li a {
+  border-left: 2px solid #FFF;
+  border-right: 2px solid #7C7C7C;
+  color: #333;
+  display: block;
+  padding: .4em;
+  
+}
+body {
+	padding:10px;
+	margin:10px;
+	background-color: #A2F396;
+	background-repeat:repeat-x;
+	text-align: center;
+	height:100%;
+        font-family: "Lucida Grande", tahoma, Arial, Helvetica, sans-serif;
+	font-size: 19px;
+	line-height: 110%;
+	color: #3f3727;
+        background-image: url("../content/fondo.jpg");
+        background-repeat:repeat;
+        
+}
+table.tabla{
+     font-family: arial, monospace;
+  color: black;
+  font-size:14px;
+  background-color: white;
+}
+
